@@ -1,4 +1,1 @@
-hola mundo
-segunda línea
-tercera línea
-esto es un experimento
+lína modificada en conlicto
